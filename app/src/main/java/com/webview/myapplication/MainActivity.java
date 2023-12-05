@@ -65,7 +65,7 @@ public class MainActivity extends Activity {
             dm.enqueue(request);
             Toast.makeText(getApplicationContext(), "Downloading File", Toast.LENGTH_LONG).show();
         });
-        mWebView.loadUrl("https://github.com/satyakami"); //Replace The Link Here
+        mWebView.loadUrl("https://nowgg.nl/play/cognosphere-pte-ltd/1591/honkai-star-rail"); //Replace The Link Here
     }
     private static class HelloWebViewClient extends WebViewClient
     {
